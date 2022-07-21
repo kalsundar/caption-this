@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: July 28-29, 2022
-- Facilitator: @Brian Blackman
+- Facilitator: @Brianbla - Brian Blackman
 
 ## Class Resources
 
